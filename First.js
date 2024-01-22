@@ -26,3 +26,5 @@ console.log("I have 100 friends😊");
 console.log("I am going to brush my teeth");
 console.log("I will go to school in a few minutes");
 console.log(3-2);
+console.log("I have lunch now");
+console.log("I will go to bongobondhu tunnel later")
