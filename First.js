@@ -19,3 +19,6 @@
 // console.log("Our neighbor country name is china");
 // console.log("Our neighbor country name is myanmar");
 console.log(4+8);
+const greeting = "Hello, World! 🌍";
+console.log(greeting);
+console.log("I have 100 friends😊");
